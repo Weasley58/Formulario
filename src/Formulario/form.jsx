@@ -26,7 +26,7 @@ export function Form() {
                 <input className="contenido" type="text" name="calle" id="calle" placeholder="Calle" />
                 <input className="contenido" type="text" name="codigo postal" id="codigopostal" placeholder="Código Postal" />
 
-                <button type="reset">Registrar Lugar</button>
+                <button type="reset">Registrar</button>
             </section>
 
             <div id="footer">
